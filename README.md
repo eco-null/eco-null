@@ -7,12 +7,6 @@
   AI, web development, and self-hosted systems.
 </p>
 
-<p align="center">
-  <a href="https://github.com/eco-null">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/eco-null?tab=repositories">Repositories</a>
-</p>
-
 ## About
 
 I build focused tools and applications with an emphasis on clarity, maintainability, and useful outcomes.
