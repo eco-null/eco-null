@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Can / eco-null profile banner" width="1200" />
+  <img src="./assets/profile-banner-original.png" alt="Can / eco-null profile banner" width="1200" />
 </p>
 
 <p align="center">
