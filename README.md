@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./assets/avatar.png" alt="Eco-null avatar" width="156" />
+  <img src="./assets/banner.png" alt="Can / eco-null profile banner" width="1200" />
 </p>
-
-<h1 align="center">Can <sub>· eco-null</sub></h1>
 
 <p align="center">
   <strong>IT student · builder · systems tinkerer</strong><br />
