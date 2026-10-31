@@ -30,3 +30,7 @@
 <p align="center">
   <sub>Building in public · Focused on shipping tools that developers and founders actually use.</sub>
 </p>
+
+## Support My Open-Source Work
+
+If my tools help you, you can [sponsor me on GitHub](https://github.com/sponsors/eco-null). Monthly and one-time contributions support maintenance, bug fixes, documentation, and new releases.
