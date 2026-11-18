@@ -2,35 +2,29 @@
   <img src="./assets/profile-banner-original.png" alt="Can / eco-null profile banner" width="1200" />
 </p>
 
-<p align="center">
-  <strong>Software Developer & Founder building AI-driven products and developer tools.</strong><br />
-  Founder of <a href="https://postready.org"><strong>PostReady</strong></a> · Crafting autonomous workflows, full-stack applications, and self-hosted systems.
-</p>
+I'm Can, a software developer. I build developer tools and self-hosted apps, and I run [PostReady](https://postready.org), a small studio that turns technical writing into posts for X and LinkedIn.
 
----
+Most of what I make starts as something I needed myself. Everything below is open source.
 
-## What I Do
+### Projects
 
-- **Founder @ [PostReady](https://postready.org):** Building an AI content repurposing studio turning technical articles, notes, and documentation into platform-native social content for X & LinkedIn.
-- **Autonomous Systems:** Engineering resilient multi-agent architectures, background orchestrators, and production self-hosted infrastructure.
-- **Full-Stack & Developer Tooling:** Designing focused web applications, API integrations, and developer-first utilities.
+| Project | What it does |
+| --- | --- |
+| [server-hub](https://github.com/eco-null/server-hub) | Self-hosted dashboard for your apps and services: status checks, Beszel stats, bookmarks, multi-user with 2FA. One Docker Compose service, SQLite. |
+| [OpenUninstaller](https://github.com/eco-null/OpenUninstaller) | Offline Windows app manager and deep uninstaller that cleans up leftovers. |
+| [dikte-web](https://github.com/eco-null/dikte-web) | Self-hosted voice-to-text dictation with a web UI, built on [dikte](https://github.com/yusufipk/dikte). |
+| [PipManager](https://github.com/eco-null/PipManager) | Web UI for managing and updating pip packages. |
 
-## Stack & Technologies
+Under [PostReady](https://github.com/postready) there are smaller utilities for posting about your work: [md-to-thread](https://github.com/postready/md-to-thread), [carousel-pdf](https://github.com/postready/carousel-pdf), [git-recap](https://github.com/postready/git-recap), [social-preview-cli](https://github.com/postready/social-preview-cli) and [awesome-tech-hooks](https://github.com/postready/awesome-tech-hooks).
 
-- **Languages:** TypeScript, Python, JavaScript, SQL, Bash
-- **Frontend & App:** Next.js (App Router), React, Tailwind CSS, Vite
-- **Backend & Cloud:** Node.js, FastAPI, PostgreSQL / Supabase, Docker, Cloudflare
-- **AI & Automation:** Autonomous Agent Runtimes, LLM Orchestration, Vector DBs (Qdrant)
+### Contributions
 
-## Projects & Ecosystem
+I also contribute to other people's projects, including [rea](https://github.com/morluto/rea) and [sill](https://github.com/Saffsanity/sill).
 
-- **[PostReady.org](https://postready.org):** AI content repurposing studio & free developer utilities.
-- **[PostReady on GitHub](https://github.com/postready):** Open-source distribution tooling & social media datasets.
+### Tools I use
 
-<p align="center">
-  <sub>Building in public · Focused on shipping tools that developers and founders actually use.</sub>
-</p>
+TypeScript, Python and SQL. Next.js, React and Tailwind on the front end; Node.js, FastAPI, PostgreSQL/Supabase and SQLite on the back end. Docker and Cloudflare for deployment.
 
-## Support My Open-Source Work
+### Sponsoring
 
-If my tools help you, you can [sponsor me on GitHub](https://github.com/sponsors/eco-null). Monthly and one-time contributions support maintenance, bug fixes, documentation, and new releases.
+If one of these tools saves you time, you can [sponsor me on GitHub](https://github.com/sponsors/eco-null). It goes toward maintenance and new releases.
