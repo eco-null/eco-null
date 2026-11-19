@@ -2,7 +2,7 @@
   <img src="./assets/profile-banner-original.png" alt="Can / eco-null profile banner" width="1200" />
 </p>
 
-I'm Can, a software developer. I build developer tools and self-hosted apps, and I run [PostReady](https://postready.org), a small studio that turns technical writing into posts for X and LinkedIn.
+I'm Can, a software developer and the founder of [PostReady](https://postready.org), where I build free tools that turn technical writing into posts for X and LinkedIn. I also build developer tools and self-hosted apps.
 
 Most of what I make starts as something I needed myself. Everything below is open source.
 
