@@ -19,7 +19,7 @@ Under [PostReady](https://github.com/postready) there are smaller utilities for 
 
 ### Contributions
 
-I also contribute to other people's projects, including [rea](https://github.com/morluto/rea) and [sill](https://github.com/Saffsanity/sill).
+I also contribute to open-source projects I use, mostly fixes and features sent as pull requests. You can see them [here](https://github.com/search?q=author%3Aeco-null+is%3Apr+is%3Amerged&type=pullrequests).
 
 ### Tools I use
 
