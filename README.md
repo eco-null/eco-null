@@ -12,7 +12,7 @@ Most of what I make starts as something I needed myself. Everything below is ope
 | --- | --- |
 | [server-hub](https://github.com/eco-null/server-hub) | Self-hosted dashboard for your apps and services: status checks, Beszel stats, bookmarks, multi-user with 2FA. One Docker Compose service, SQLite. |
 | [OpenUninstaller](https://github.com/eco-null/OpenUninstaller) | Offline Windows app manager and deep uninstaller that cleans up leftovers. |
-| [dikte-web](https://github.com/eco-null/dikte-web) | Self-hosted voice-to-text dictation with a web UI, built on [dikte](https://github.com/yusufipk/dikte). |
+| [PostReady](https://postready.org) | Free tools that turn one idea into ready-to-post content for X, LinkedIn and other platforms. |
 | [PipManager](https://github.com/eco-null/PipManager) | Web UI for managing and updating pip packages. |
 
 Under [PostReady](https://github.com/postready) there are smaller utilities for posting about your work: [md-to-thread](https://github.com/postready/md-to-thread), [carousel-pdf](https://github.com/postready/carousel-pdf), [git-recap](https://github.com/postready/git-recap), [social-preview-cli](https://github.com/postready/social-preview-cli) and [awesome-tech-hooks](https://github.com/postready/awesome-tech-hooks).
